@@ -1,0 +1,2 @@
+git+https://github.com/chris-t-fernando/parameter-store.git
+aiobotocore
